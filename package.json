@@ -1,0 +1,22 @@
+{
+    "name": "@sagar_shetty/lol.js",
+    "version": "1.0.2",
+    "description": "The only Package you’ll ever need. Just returns 😂. That’s it.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Sagar-Shetty21/lol.js.git"
+    },
+    "keywords": [
+        "lol"
+    ],
+    "author": "Sagar Shetty",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Sagar-Shetty21/lol.js/issues"
+    },
+    "homepage": "https://github.com/Sagar-Shetty21/lol.js#readme"
+}
