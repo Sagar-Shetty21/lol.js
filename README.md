@@ -62,4 +62,4 @@
 
 Click the button below to experience 😂 firsthand.
 
-[Try the Package](https://twitter.com/)
+[Try the Package](https://sagar-shetty21.github.io/lol-js-page/)
