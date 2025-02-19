@@ -1,6 +1,6 @@
 {
     "name": "@sagar_shetty/lol.js",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "The only Package you’ll ever need. Just returns 😂. That’s it.",
     "main": "index.js",
     "scripts": {
