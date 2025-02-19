@@ -1,6 +1,6 @@
 # lol.js
 
-## The only API you’ll ever need. Just returns 😂. That’s it.
+## The only Package you’ll ever need. Just returns 😂. That’s it.
 
 ## 🚀 The Problem
 
@@ -62,4 +62,4 @@
 
 Click the button below to experience 😂 firsthand.
 
-[Test the API](https://twitter.com/)
+[Try the Package](https://twitter.com/)
